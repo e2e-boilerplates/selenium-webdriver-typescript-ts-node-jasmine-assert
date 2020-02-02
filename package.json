@@ -1,7 +1,7 @@
 {
   "name": "selenium-webdriver-es6modules-typescript-tsnode-jasmine",
   "version": "1.0.0",
-  "description": "selenium-webdriver end-to-end test automation boilerplate project. Using ES6 modules, TypeScript, and jasmine.",
+  "description": "selenium-webdriver end-to-end test automation boilerplate, using TypeScript, ts-node, Jasmine and Assert.",
   "devDependencies": {
     "@types/jasmine": "3.5.2",
     "@types/node": "12.12.26",
