@@ -1,5 +1,5 @@
+import { strictEqual } from "assert";
 import { Builder, By } from "selenium-webdriver";
-import { strictEqual } from "assert;
 import chrome from "selenium-webdriver/chrome";
 
 import "chromedriver";
