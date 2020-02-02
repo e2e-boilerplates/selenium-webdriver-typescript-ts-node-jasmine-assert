@@ -1,6 +1,6 @@
 import { Builder, By } from "selenium-webdriver";
-import chrome from "selenium-webdriver/chrome";
 import { strictEqual } from "assert;
+import chrome from "selenium-webdriver/chrome";
 
 import "chromedriver";
 
