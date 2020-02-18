@@ -1,6 +1,7 @@
 import assert from "assert";
 import { Builder, By } from "selenium-webdriver";
 import chrome from "selenium-webdriver/chrome";
+
 import "chromedriver";
 
 const options = new chrome.Options();
