@@ -1,6 +1,6 @@
 {
-  "author": "",
-  "description": "selenium-webdriver end-to-end test automation boilerplate, using TypeScript, ts-node, Jasmine and Assert.",
+  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "description": "selenium webdriver end-to-end test automation boilerplate.",
   "devDependencies": {
     "@types/jasmine": "3.5.8",
     "@types/node": "12.12.29",
@@ -23,6 +23,11 @@
   },
   "keywords": [
     "assert",
+    "boilerplate",
+    "e2e",
+    "e2e tests",
+    "example",
+    "integration test",
     "jasmine",
     "selenium",
     "selenium-webdriver",
