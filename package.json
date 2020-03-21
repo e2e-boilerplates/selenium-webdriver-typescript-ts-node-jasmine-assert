@@ -9,7 +9,7 @@
     "@types/node": "12.12.30",
     "@types/selenium-webdriver": "4.0.9",
     "chromedriver": "^80.0.1",
-    "husky": "4.2.2",
+    "husky": "4.2.3",
     "jasmine": "3.5.0",
     "lint-staged": "10.0.8",
     "prettier": "1.19.1",
