@@ -16,7 +16,11 @@
     "@types/jasmine": "3.5.10",
     "@types/node": "13.11.1",
     "@types/selenium-webdriver": "4.0.9",
+<<<<<<< HEAD
     "husky": "4.2.3",
+=======
+    "husky": "4.2.5",
+>>>>>>> 03925eefeba1ce33eada17f64065d9ad6341679f
     "lint-staged": "10.1.3",
     "prettier": "2.0.4",
     "tslint": "6.1.1",
