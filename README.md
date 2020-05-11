@@ -2,7 +2,7 @@
     
 # Selenium-WebDriver Boilerplate
     
-Selenium-WebDriver end-to-end test automation boilerplate, Using TypeScript, ts-node, Jasmine and Assert.
+Selenium-WebDriver end-to-end test automation boilerplate, Using [TypeScript](https://www.typescriptlang.org), [ts-jest](https://github.com/TypeStrong/ts-node), [Jasmine](https://jasmine.github.io) and Assert.
     
 ## Getting Started
     	1. git clone git@github.com:e2e-boilerplate/selenium-webdriver-typescript-ts-node-jasmine-assert.git
